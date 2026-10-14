@@ -16,3 +16,4 @@ Welcome to my academic portfolio for [Course Name]!
 
 ## Projects
 *This section will be updated as I complete assignments*
+Form study groups with classmates
